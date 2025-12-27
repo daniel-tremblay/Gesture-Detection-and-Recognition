@@ -1,0 +1,201 @@
+ Gesture Accuracies 
+call Accuracy: 100.00% (10/10)
+dislike Accuracy: 100.00% (10/10)
+fist Accuracy: 100.00% (10/10)
+four Accuracy: 100.00% (10/10)
+like Accuracy: 100.00% (10/10)
+mute Accuracy: 100.00% (10/10)
+ok Accuracy: 100.00% (10/10)
+one Accuracy: 100.00% (10/10)
+palm Accuracy: 50.00% (5/10)
+peace Accuracy: 70.00% (7/10)
+rock Accuracy: 100.00% (10/10)
+stop Accuracy: 100.00% (10/10)
+three Accuracy: 100.00% (10/10)
+three2 Accuracy: 60.00% (6/10)
+two_up Accuracy: 70.00% (7/10)
+
+Overall Accuracy: 90.00% (135/150)
+
+ Prediction Log 
+
+ CALL 
+call\WIN_20250812_16_19_47_Pro.jpg → Predicted: call | Correct: True
+call\WIN_20250812_16_19_49_Pro.jpg → Predicted: call | Correct: True
+call\WIN_20250812_16_19_51_Pro.jpg → Predicted: call | Correct: True
+call\WIN_20250812_16_19_53_Pro.jpg → Predicted: call | Correct: True
+call\WIN_20250812_16_19_55_Pro.jpg → Predicted: call | Correct: True
+call\WIN_20250812_16_21_42_Pro.jpg → Predicted: call | Correct: True
+call\WIN_20250812_16_21_43_Pro.jpg → Predicted: call | Correct: True
+call\WIN_20250812_16_21_44_Pro.jpg → Predicted: call | Correct: True
+call\WIN_20250812_16_21_48_Pro.jpg → Predicted: call | Correct: True
+call\WIN_20250812_16_21_51_Pro.jpg → Predicted: call | Correct: True
+
+ DISLIKE 
+dislike\WIN_20250813_16_07_39_Pro.jpg → Predicted: dislike | Correct: True
+dislike\WIN_20250813_16_07_41_Pro.jpg → Predicted: dislike | Correct: True
+dislike\WIN_20250813_16_07_43_Pro.jpg → Predicted: dislike | Correct: True
+dislike\WIN_20250813_16_07_45_Pro.jpg → Predicted: dislike | Correct: True
+dislike\WIN_20250813_16_07_47_Pro.jpg → Predicted: dislike | Correct: True
+dislike\WIN_20250813_16_08_06_Pro.jpg → Predicted: dislike | Correct: True
+dislike\WIN_20250813_16_08_08_Pro.jpg → Predicted: dislike | Correct: True
+dislike\WIN_20250813_16_08_09_Pro.jpg → Predicted: dislike | Correct: True
+dislike\WIN_20250813_16_08_11_Pro.jpg → Predicted: dislike | Correct: True
+dislike\WIN_20250813_16_08_13_Pro.jpg → Predicted: dislike | Correct: True
+
+ FIST 
+fist\WIN_20250813_16_11_37_Pro.jpg → Predicted: fist | Correct: True
+fist\WIN_20250813_16_11_38_Pro.jpg → Predicted: fist | Correct: True
+fist\WIN_20250813_16_11_41_Pro.jpg → Predicted: fist | Correct: True
+fist\WIN_20250813_16_11_44_Pro.jpg → Predicted: fist | Correct: True
+fist\WIN_20250813_16_11_46_Pro.jpg → Predicted: fist | Correct: True
+fist\WIN_20250813_16_12_08_Pro.jpg → Predicted: fist | Correct: True
+fist\WIN_20250813_16_12_09_Pro.jpg → Predicted: fist | Correct: True
+fist\WIN_20250813_16_12_11_Pro.jpg → Predicted: fist | Correct: True
+fist\WIN_20250813_16_12_14_Pro.jpg → Predicted: fist | Correct: True
+fist\WIN_20250813_16_12_17_Pro.jpg → Predicted: fist | Correct: True
+
+ FOUR 
+four\WIN_20250813_16_16_18_Pro.jpg → Predicted: four | Correct: True
+four\WIN_20250813_16_16_19_Pro.jpg → Predicted: four | Correct: True
+four\WIN_20250813_16_16_22_Pro.jpg → Predicted: four | Correct: True
+four\WIN_20250813_16_16_23_Pro.jpg → Predicted: four | Correct: True
+four\WIN_20250813_16_16_25_Pro.jpg → Predicted: four | Correct: True
+four\WIN_20250813_16_16_28_Pro.jpg → Predicted: four | Correct: True
+four\WIN_20250813_16_16_30_Pro.jpg → Predicted: four | Correct: True
+four\WIN_20250813_16_16_32_Pro.jpg → Predicted: four | Correct: True
+four\WIN_20250813_16_16_33_Pro.jpg → Predicted: four | Correct: True
+four\WIN_20250813_16_16_37_Pro.jpg → Predicted: four | Correct: True
+
+ LIKE 
+like\WIN_20250813_16_18_09_Pro.jpg → Predicted: like | Correct: True
+like\WIN_20250813_16_18_10_Pro.jpg → Predicted: like | Correct: True
+like\WIN_20250813_16_18_12_Pro.jpg → Predicted: like | Correct: True
+like\WIN_20250813_16_18_13_Pro.jpg → Predicted: like | Correct: True
+like\WIN_20250813_16_18_15_Pro.jpg → Predicted: like | Correct: True
+like\WIN_20250813_16_18_17_Pro.jpg → Predicted: like | Correct: True
+like\WIN_20250813_16_18_19_Pro.jpg → Predicted: like | Correct: True
+like\WIN_20250813_16_18_20_Pro.jpg → Predicted: like | Correct: True
+like\WIN_20250813_16_18_21_Pro.jpg → Predicted: like | Correct: True
+like\WIN_20250813_16_18_23_Pro.jpg → Predicted: like | Correct: True
+
+ MUTE 
+mute\WIN_20250813_16_19_35_Pro.jpg → Predicted: mute | Correct: True
+mute\WIN_20250813_16_19_37_Pro.jpg → Predicted: mute | Correct: True
+mute\WIN_20250813_16_19_39_Pro.jpg → Predicted: mute | Correct: True
+mute\WIN_20250813_16_19_41_Pro.jpg → Predicted: mute | Correct: True
+mute\WIN_20250813_16_19_42_Pro.jpg → Predicted: mute | Correct: True
+mute\WIN_20250813_16_20_03_Pro.jpg → Predicted: mute | Correct: True
+mute\WIN_20250813_16_20_05_Pro.jpg → Predicted: mute | Correct: True
+mute\WIN_20250813_16_20_07_Pro.jpg → Predicted: mute | Correct: True
+mute\WIN_20250813_16_20_09_Pro.jpg → Predicted: mute | Correct: True
+mute\WIN_20250813_16_20_11_Pro.jpg → Predicted: mute | Correct: True
+
+ OK 
+ok\WIN_20250813_16_22_55_Pro.jpg → Predicted: ok | Correct: True
+ok\WIN_20250813_16_22_57_Pro.jpg → Predicted: ok | Correct: True
+ok\WIN_20250813_16_22_58_Pro.jpg → Predicted: ok | Correct: True
+ok\WIN_20250813_16_23_00_Pro.jpg → Predicted: ok | Correct: True
+ok\WIN_20250813_16_23_02_Pro.jpg → Predicted: ok | Correct: True
+ok\WIN_20250813_16_23_04_Pro.jpg → Predicted: ok | Correct: True
+ok\WIN_20250813_16_23_05_Pro.jpg → Predicted: ok | Correct: True
+ok\WIN_20250813_16_23_07_Pro.jpg → Predicted: ok | Correct: True
+ok\WIN_20250813_16_23_08_Pro.jpg → Predicted: ok | Correct: True
+ok\WIN_20250813_16_23_11_Pro.jpg → Predicted: ok | Correct: True
+
+ ONE 
+one\WIN_20250813_16_24_22_Pro.jpg → Predicted: one | Correct: True
+one\WIN_20250813_16_24_23_Pro.jpg → Predicted: one | Correct: True
+one\WIN_20250813_16_24_25_Pro.jpg → Predicted: one | Correct: True
+one\WIN_20250813_16_24_26_Pro.jpg → Predicted: one | Correct: True
+one\WIN_20250813_16_24_28_Pro.jpg → Predicted: one | Correct: True
+one\WIN_20250813_16_24_30_Pro.jpg → Predicted: one | Correct: True
+one\WIN_20250813_16_24_31_Pro.jpg → Predicted: one | Correct: True
+one\WIN_20250813_16_24_33_Pro.jpg → Predicted: one | Correct: True
+one\WIN_20250813_16_24_35_Pro.jpg → Predicted: one | Correct: True
+one\WIN_20250813_16_24_37_Pro.jpg → Predicted: one | Correct: True
+
+ PALM 
+palm\WIN_20250813_16_25_40_Pro.jpg → Predicted: palm | Correct: True
+palm\WIN_20250813_16_25_42_Pro.jpg → Predicted: palm | Correct: True
+palm\WIN_20250813_16_25_43_Pro.jpg → Predicted: palm | Correct: True
+palm\WIN_20250813_16_25_44_Pro.jpg → Predicted: palm | Correct: True
+palm\WIN_20250813_16_25_47_Pro.jpg → Predicted: palm | Correct: True
+palm\WIN_20250813_16_25_50_Pro.jpg → Predicted: four | Correct: False
+palm\WIN_20250813_16_25_52_Pro.jpg → Predicted: four | Correct: False
+palm\WIN_20250813_16_25_53_Pro.jpg → Predicted: four | Correct: False
+palm\WIN_20250813_16_25_54_Pro.jpg → Predicted: four | Correct: False
+palm\WIN_20250813_16_25_57_Pro.jpg → Predicted: four | Correct: False
+
+ PEACE 
+peace\WIN_20250813_16_27_07_Pro.jpg → Predicted: peace | Correct: True
+peace\WIN_20250813_16_27_08_Pro.jpg → Predicted: peace | Correct: True
+peace\WIN_20250813_16_27_10_Pro.jpg → Predicted: peace | Correct: True
+peace\WIN_20250813_16_27_11_Pro.jpg → Predicted: peace | Correct: True
+peace\WIN_20250813_16_27_15_Pro.jpg → Predicted: peace | Correct: True
+peace\WIN_20250813_16_27_17_Pro.jpg → Predicted: peace | Correct: True
+peace\WIN_20250813_16_27_18_Pro.jpg → Predicted: peace | Correct: True
+peace\WIN_20250813_16_27_20_Pro.jpg → Predicted: two_up | Correct: False
+peace\WIN_20250813_16_27_21_Pro.jpg → Predicted: two_up | Correct: False
+peace\WIN_20250813_16_27_23_Pro.jpg → Predicted: two_up | Correct: False
+
+ ROCK 
+rock\WIN_20250813_16_29_07_Pro.jpg → Predicted: rock | Correct: True
+rock\WIN_20250813_16_29_09_Pro.jpg → Predicted: rock | Correct: True
+rock\WIN_20250813_16_29_11_Pro.jpg → Predicted: rock | Correct: True
+rock\WIN_20250813_16_29_12_Pro.jpg → Predicted: rock | Correct: True
+rock\WIN_20250813_16_29_14_Pro.jpg → Predicted: rock | Correct: True
+rock\WIN_20250813_16_29_18_Pro.jpg → Predicted: rock | Correct: True
+rock\WIN_20250813_16_29_21_Pro.jpg → Predicted: rock | Correct: True
+rock\WIN_20250813_16_29_23_Pro.jpg → Predicted: rock | Correct: True
+rock\WIN_20250813_16_29_26_Pro.jpg → Predicted: rock | Correct: True
+rock\WIN_20250813_16_29_28_Pro.jpg → Predicted: rock | Correct: True
+
+ STOP 
+stop\WIN_20250813_16_32_40_Pro.jpg → Predicted: stop | Correct: True
+stop\WIN_20250813_16_32_41_Pro.jpg → Predicted: stop | Correct: True
+stop\WIN_20250813_16_32_43_Pro.jpg → Predicted: stop | Correct: True
+stop\WIN_20250813_16_32_46_Pro.jpg → Predicted: stop | Correct: True
+stop\WIN_20250813_16_32_47_Pro.jpg → Predicted: stop | Correct: True
+stop\WIN_20250813_16_33_00_Pro.jpg → Predicted: stop | Correct: True
+stop\WIN_20250813_16_33_03_Pro.jpg → Predicted: stop | Correct: True
+stop\WIN_20250813_16_33_04_Pro.jpg → Predicted: stop | Correct: True
+stop\WIN_20250813_16_33_05_Pro.jpg → Predicted: stop | Correct: True
+stop\WIN_20250813_16_33_07_Pro.jpg → Predicted: stop | Correct: True
+
+ THREE 
+three\WIN_20250813_16_34_03_Pro.jpg → Predicted: three | Correct: True
+three\WIN_20250813_16_34_07_Pro.jpg → Predicted: three | Correct: True
+three\WIN_20250813_16_34_11_Pro (2).jpg → Predicted: three | Correct: True
+three\WIN_20250813_16_34_11_Pro.jpg → Predicted: three | Correct: True
+three\WIN_20250813_16_34_13_Pro.jpg → Predicted: three | Correct: True
+three\WIN_20250813_16_34_33_Pro.jpg → Predicted: three | Correct: True
+three\WIN_20250813_16_34_36_Pro.jpg → Predicted: three | Correct: True
+three\WIN_20250813_16_34_39_Pro.jpg → Predicted: three | Correct: True
+three\WIN_20250813_16_34_40_Pro.jpg → Predicted: three | Correct: True
+three\WIN_20250813_16_34_42_Pro.jpg → Predicted: three | Correct: True
+
+ THREE2 
+three2\WIN_20250813_16_36_13_Pro.jpg → Predicted: peace | Correct: False
+three2\WIN_20250813_16_36_15_Pro.jpg → Predicted: peace | Correct: False
+three2\WIN_20250813_16_36_16_Pro.jpg → Predicted: peace | Correct: False
+three2\WIN_20250813_16_36_18_Pro.jpg → Predicted: peace | Correct: False
+three2\WIN_20250813_16_36_20_Pro.jpg → Predicted: three2 | Correct: True
+three2\WIN_20250813_16_36_24_Pro.jpg → Predicted: three2 | Correct: True
+three2\WIN_20250813_16_36_25_Pro.jpg → Predicted: three2 | Correct: True
+three2\WIN_20250813_16_36_27_Pro.jpg → Predicted: three2 | Correct: True
+three2\WIN_20250813_16_36_28_Pro.jpg → Predicted: three2 | Correct: True
+three2\WIN_20250813_16_36_31_Pro.jpg → Predicted: three2 | Correct: True
+
+ TWO_UP 
+two_up\WIN_20250813_16_43_53_Pro.jpg → Predicted: two_up | Correct: True
+two_up\WIN_20250813_16_43_56_Pro.jpg → Predicted: peace | Correct: False
+two_up\WIN_20250813_16_43_57_Pro.jpg → Predicted: two_up | Correct: True
+two_up\WIN_20250813_16_43_58_Pro.jpg → Predicted: two_up | Correct: True
+two_up\WIN_20250813_16_44_01_Pro.jpg → Predicted: peace | Correct: False
+two_up\WIN_20250813_16_44_05_Pro.jpg → Predicted: two_up | Correct: True
+two_up\WIN_20250813_16_44_07_Pro.jpg → Predicted: two_up | Correct: True
+two_up\WIN_20250813_16_44_09_Pro.jpg → Predicted: two_up | Correct: True
+two_up\WIN_20250813_16_44_10_Pro.jpg → Predicted: two_up | Correct: True
+two_up\WIN_20250813_16_44_13_Pro.jpg → Predicted: peace | Correct: False
+
